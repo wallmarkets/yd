@@ -1712,7 +1712,7 @@
 /* Wrappers */
 
 	#header-wrapper {
-		background: url("https://cloud.githubusercontent.com/assets/3448555/9974391/58fda22a-5ebf-11e5-9e24-96c74ae866bb.png"), url("https://cloud.githubusercontent.com/assets/3448555/9974343/36dd2546-5ebd-11e5-96fd-b0edcbe6778a.jpg");
+		background: url("https://cloud.githubusercontent.com/assets/3448555/9974391/58fda22a-5ebf-11e5-9e24-96c74ae866bb.png"), url("http://cloud.avokirich.com/antony/images/header.jpg");
 		background-position: top left, center center;
 		background-size: auto, cover;
 	}
