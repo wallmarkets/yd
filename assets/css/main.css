@@ -1067,7 +1067,7 @@
 	}
 
 	body {
-		background: #303238 url("images/bg01.png");
+		background: #303238 url("https://cloud.githubusercontent.com/assets/3448555/9974391/58fda22a-5ebf-11e5-9e24-96c74ae866bb.png");
 		font-family: 'Open Sans', sans-serif;
 		color: #7b818c;
 		font-weight: 400;
@@ -1364,7 +1364,7 @@
 			position: absolute;
 			left: 0;
 			top: 0;
-			background: url("images/bg01.png");
+			background: url("https://cloud.githubusercontent.com/assets/3448555/9974391/58fda22a-5ebf-11e5-9e24-96c74ae866bb.png");
 			width: 100%;
 			height: 100%;
 			opacity: 0.75;
@@ -1403,10 +1403,10 @@
 	input[type="reset"],
 	button,
 	.button {
-		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2)), url("images/bg02.png");
-		background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2)), url("images/bg02.png");
-		background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2)), url("images/bg02.png");
-		background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2)), url("images/bg02.png");
+		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2)), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
+		background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2)), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
+		background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2)), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
+		background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2)), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
 		-moz-transition: background-color 0.2s ease-in-out;
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
@@ -1712,7 +1712,7 @@
 /* Wrappers */
 
 	#header-wrapper {
-		background: url("images/bg01.png"), url("https://cloud.githubusercontent.com/assets/3448555/9974343/36dd2546-5ebd-11e5-96fd-b0edcbe6778a.jpg");
+		background: url("https://cloud.githubusercontent.com/assets/3448555/9974391/58fda22a-5ebf-11e5-9e24-96c74ae866bb.png"), url("https://cloud.githubusercontent.com/assets/3448555/9974343/36dd2546-5ebd-11e5-96fd-b0edcbe6778a.jpg");
 		background-position: top left, center center;
 		background-size: auto, cover;
 	}
@@ -1722,10 +1722,10 @@
 	}
 
 	#footer-wrapper {
-		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url("images/bg03.png"), url("images/bg02.png");
-		background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url("images/bg03.png"), url("images/bg02.png");
-		background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url("images/bg03.png"), url("images/bg02.png");
-		background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url("images/bg03.png"), url("images/bg02.png");
+		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url("https://cloud.githubusercontent.com/assets/3448555/9974394/99e2935e-5ebf-11e5-938d-1b9b9bb889a8.png"), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
+		background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url("https://cloud.githubusercontent.com/assets/3448555/9974394/99e2935e-5ebf-11e5-938d-1b9b9bb889a8.png"), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
+		background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url("https://cloud.githubusercontent.com/assets/3448555/9974394/99e2935e-5ebf-11e5-938d-1b9b9bb889a8.png"), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
+		background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url("https://cloud.githubusercontent.com/assets/3448555/9974394/99e2935e-5ebf-11e5-938d-1b9b9bb889a8.png"), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
 		position: relative;
 		background-repeat: repeat-x, no-repeat, repeat;
 		background-size: 100% 100%, 100% 15em, auto auto;
@@ -1741,7 +1741,7 @@
 		position: relative;
 		text-shadow: 1px 1px 0 #fff;
 		background-color: #fff;
-		background-image: url("images/bg03.png"), url("images/bg04.png"), url("images/bg02.png");
+		background-image: url("https://cloud.githubusercontent.com/assets/3448555/9974394/99e2935e-5ebf-11e5-938d-1b9b9bb889a8.png"), url("https://cloud.githubusercontent.com/assets/3448555/9974418/748e56b4-5ec0-11e5-8cac-df48d486a83d.png"), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
 		background-repeat: no-repeat, no-repeat, repeat;
 		background-size: 100% 15em, 100% 15em, auto auto;
 		background-position: top center, bottom center, top left;
@@ -1751,7 +1751,7 @@
 		position: relative;
 		text-shadow: 1px 1px 0 #fff;
 		background-color: #fff;
-		background-image: url("images/bg03.png"), url("images/bg02.png");
+		background-image: url("https://cloud.githubusercontent.com/assets/3448555/9974394/99e2935e-5ebf-11e5-938d-1b9b9bb889a8.png"), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
 		background-repeat: no-repeat, repeat;
 		background-size: 100% 15em, auto auto;
 		background-position: top center, top left;
@@ -1861,10 +1861,10 @@
 			}
 
 				#header .inner {
-					background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("images/bg02.png");
-					background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("images/bg02.png");
-					background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("images/bg02.png");
-					background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("images/bg02.png");
+					background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
+					background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
+					background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
+					background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
 					position: relative;
 					height: 5.5em;
 					background-color: #3B3E45;
@@ -1923,10 +1923,10 @@
 					}
 
 			.dropotron {
-				background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0)), url("images/bg02.png");
-				background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0)), url("images/bg02.png");
-				background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0)), url("images/bg02.png");
-				background-image: linear-gradient(top, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0)), url("images/bg02.png");
+				background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0)), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
+				background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0)), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
+				background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0)), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
+				background-image: linear-gradient(top, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0)), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
 				position: relative;
 				background-color: #3B3E45;
 				background-color: rgba(59, 62, 69, 0.9);
@@ -2143,10 +2143,10 @@
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
 				backface-visibility: hidden;
-				background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("images/bg02.png");
-				background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("images/bg02.png");
-				background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("images/bg02.png");
-				background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("images/bg02.png");
+				background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
+				background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
+				background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
+				background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("https://cloud.githubusercontent.com/assets/3448555/9974392/875d2370-5ebf-11e5-8ea6-56925a42a50f.png");
 				-moz-transition: -moz-transform 0.5s ease;
 				-webkit-transition: -webkit-transform 0.5s ease;
 				-ms-transition: -ms-transform 0.5s ease;
@@ -2209,10 +2209,10 @@
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
 				backface-visibility: hidden;
-				background-image: -moz-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("images/bg01.png");
-				background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("images/bg01.png");
-				background-image: -ms-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("images/bg01.png");
-				background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("images/bg01.png");
+				background-image: -moz-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("https://cloud.githubusercontent.com/assets/3448555/9974391/58fda22a-5ebf-11e5-9e24-96c74ae866bb.png");
+				background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("https://cloud.githubusercontent.com/assets/3448555/9974391/58fda22a-5ebf-11e5-9e24-96c74ae866bb.png");
+				background-image: -ms-linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("https://cloud.githubusercontent.com/assets/3448555/9974391/58fda22a-5ebf-11e5-9e24-96c74ae866bb.png");
+				background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.35)), url("https://cloud.githubusercontent.com/assets/3448555/9974391/58fda22a-5ebf-11e5-9e24-96c74ae866bb.png");
 				-moz-transform: translateX(-275px);
 				-webkit-transform: translateX(-275px);
 				-ms-transform: translateX(-275px);
